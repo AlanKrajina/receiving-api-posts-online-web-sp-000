@@ -6895,3 +6895,6 @@ Cannot render console from 89.201.217.252! Allowed networks: 127.0.0.1, ::1, 127
 Processing by PostsController#new as HTML
   Rendering posts/new.html.erb within layouts/application
   Rendered posts/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 515ms (Views: 502.9ms | ActiveRecord: 0.8ms)
+
+
